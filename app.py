@@ -34,7 +34,7 @@ with st.form("calories_form"):
 
     body_temp = st.slider("Body Temperature (°C)", 30.0, 45.0, 37.0)
 
-    submitted = st.form_submit_button("🎯 Predict Calories")
+    submitted = st.form_submit_button("🎯 Predict Calories Burnt")
 
 # --- Feature Engineering and Prediction ---
 if submitted:
