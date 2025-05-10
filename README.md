@@ -88,8 +88,5 @@ Built with 💚 by [Md Aman Alam]
 👩‍💻 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-🔗 References
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [XGBoost Documentation](https://xgboost.readthedocs.io/)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-```
+Here is the link for you to try it -->
+https://amankhan-calories-burnt-predictor.streamlit.app/
