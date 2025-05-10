@@ -52,6 +52,11 @@ It also includes engineered features like:
 
 ---
 
+## Here is the link for you to try it -->
+https://amankhan-calories-burnt-predictor.streamlit.app/
+
+------
+
 ## 📦 How to Run the App
 
 ### 1. Clone the repository
@@ -87,6 +92,3 @@ Built with 💚 by [Md Aman Alam]
 
 👩‍💻 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Here is the link for you to try it -->
-https://amankhan-calories-burnt-predictor.streamlit.app/
